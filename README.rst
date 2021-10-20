@@ -14,7 +14,7 @@ Open Inertia Modelling (OpInMod)
 Introduction
 ============
 
-Open Inertia Modelling (OpInMod) is a modelling framework desigened to create unit commitment 
+Open Inertia Modelling (OpInMod) is a modelling framework designed to create unit commitment 
 and economic inertia dispatch optimisation problems. Present energy system modelling generators 
 do not consider power system inertia in unit commitment and economic dispatch modelling to assess 
 future energy system pathways. However, maintaining sufficient power system inertia in power 
@@ -72,7 +72,7 @@ Citing
 Examples & Documentation
 ========================
 
-You can find four examples in `OpInMod's example repository <https://github.com/hnnngt/OpInMod_Examples>`_ on github to download or clone. 
+You can find four examples in `OpInMod's example repository <https://github.com/hnnngt/OpInMod_Examples>`_ on github to download. 
 The four examples are based on oemof's `simple dispatch example <https://github.com/oemof/oemof-examples/tree/master/oemof_examples/oemof.solph/v0.4.x/simple_dispatch>`_
 Further comments and elaborations on how to use OpInMod are provided in the example repository.
 
