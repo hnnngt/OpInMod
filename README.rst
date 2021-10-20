@@ -72,7 +72,7 @@ Citing
 Examples & Documentation
 ========================
 
-You can find four examples in `OpInMod's example repository <https://github.com/oemof/oemof-examples>`_ on github to download or clone. 
+You can find four examples in `OpInMod's example repository <https://github.com/hnnngt/OpInMod_Examples>`_ on github to download or clone. 
 The four examples are based on oemof's `simple dispatch example <https://github.com/oemof/oemof-examples/tree/master/oemof_examples/oemof.solph/v0.4.x/simple_dispatch>`_
 Further comments and elaborations on how to use OpInMod are provided in the example repository.
 
