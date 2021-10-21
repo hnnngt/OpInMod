@@ -1,3 +1,8 @@
+## Copyright 2021 Henning Thiesen
+
+## OpInMod is released under the open source MIT License, see
+## https://github.com/hnnngt/OpInMod/blob/main/LICENSE
+
 """OpInMod version of oemof.solph.components.generic_storage.GenericStorage
 
 GenericStorage and associated individual constraints (blocks) and groupings.

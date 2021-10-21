@@ -1,3 +1,8 @@
+## Copyright 2021 Henning Thiesen
+
+## OpInMod is released under the open source MIT License, see
+## https://github.com/hnnngt/OpInMod/blob/main/LICENSE
+
 """Modules for providing a convenient data structure for OpInMod results.
 
 Check the oemof.solph documentation for further details

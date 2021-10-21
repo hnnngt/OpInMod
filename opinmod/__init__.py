@@ -1,3 +1,9 @@
+## Copyright 2021 Henning Thiesen
+
+## OpInMod is released under the open source MIT License, see
+## https://github.com/hnnngt/OpInMod/blob/main/LICENSE
+
+
 __version__ = "0.1"
 __author__ = "Henning Thiesen (WETI)"
 __copyright__ = "Copyright 2021 Henning Thiesen (WETI), MIT License"

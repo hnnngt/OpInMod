@@ -1,5 +1,9 @@
-"""
-Classes used to model energy supply systems within solph.
+## Copyright 2021 Henning Thiesen
+
+## OpInMod is released under the open source MIT License, see
+## https://github.com/hnnngt/OpInMod/blob/main/LICENSE
+
+"""Classes used to model energy supply systems within solph.
 
 Classes are derived from oemof core network classes and adapted for specific
 optimization tasks. An energy system is modelled as a graph/network of nodes
